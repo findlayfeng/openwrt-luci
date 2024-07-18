@@ -1,0 +1,146 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:10
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:10
+msgid "A feature-packed proxy & relay tool optimized for lossy"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:15
+msgctxt "Hysteria clientd instance"
+msgid "Add client instance"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:15
+msgctxt "Hysteria Serverd instance"
+msgid "Add server instance"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:26
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:22
+msgid "Configuration Directory"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:33
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:29
+msgid "Configuration File"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:96
+msgid "DNS"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:27
+msgid "Directory where the Hysteria Client configuration file are located."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:23
+msgid "Directory where the Hysteria Server configuration file are located."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:19
+msgid "Dnsmasq"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:116
+msgid "Domains"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:23
+msgid "Enable Hysteria Client instance."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:19
+msgid "Enable Hysteria Server instance."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:22
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:18
+msgid "Enabled"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:92
+msgid "Enabled Dnsmasq"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:93
+msgid "Enabled Dnsmasq Auto config."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:46
+msgid "Enabled Tproxy"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:47
+msgid "Enabled Tproxy Auto config."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:97
+msgid "Forward to dns server."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:17
+msgid "General"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/root/usr/share/rpcd/acl.d/luci-app-hysteria.json:3
+msgid "Grant UCI and RPC access to LuCI app hysteria"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:9
+#: feeds/luci/applications/luci-app-hysteria/root/usr/share/luci/menu.d/luci-app-hysteria.json:16
+msgid "Hysteria"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:34
+msgid "Hysteria Client configuration file."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:9
+#: feeds/luci/applications/luci-app-hysteria/root/usr/share/luci/menu.d/luci-app-hysteria.json:3
+msgid "Hysteria Server"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/server.js:30
+msgid "Hysteria Server configuration file."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:117
+msgid "List of domain names that need to be proxied."
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:56
+msgid "Mark"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:86
+msgid "Nft Tabel Set"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:74
+msgid "Nft Table Name"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:103
+msgid "Ntfset"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:68
+msgid "Port"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:50
+msgid "Route Table"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:18
+msgid "Tproxy"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:62
+msgid "User"
+msgstr ""
+
+#: feeds/luci/applications/luci-app-hysteria/htdocs/luci-static/resources/view/hysteria/client.js:104
+msgid "ntfset to record proxy address."
+msgstr ""
