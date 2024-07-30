@@ -176,7 +176,6 @@ return view.extend({
 
 		o = s.option(CBIBindSelect, 'bind', _('HTTP Listen interface'));
 		o.datatype = 'or(ip4addr, device)';
-		o.placeholder = '0.0.0.0 || br-lan';
 
 		o = s.option(form.Value, 'port', _('Port'), _('Default') + ' : ' + '%s'.format('4022'));
 		o.datatype = 'port';
@@ -193,7 +192,6 @@ return view.extend({
 			_('Default') + ' : ' + '%s'.format('0.0.0.0'),
 		);
 		o.datatype = 'or(ip4addr, device)';
-		o.placeholder = '0.0.0.0 || lan1';
 
 		o = s.option(form.Value, 'max_clients', _('Client amount upper limit'));
 		o.datatype = 'range(1, 5000)';
