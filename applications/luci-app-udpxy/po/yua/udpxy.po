@@ -1,4 +1,5 @@
 msgid ""
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 msgstr ""
 "PO-Revision-Date: 2024-09-24 00:39+0000\n"
 "Last-Translator: brodrigueznu <brodrigueznu@hotmail.com>\n"
@@ -11,34 +12,60 @@ msgstr ""
 "X-Generator: Weblate 5.8-dev\n"
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:207
+=======
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:59
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "-1 is all."
 msgstr "-1 es todo."
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:211
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:63
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "-1 is unlimited."
 msgstr "-1 es ilimitado."
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:117
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:121
 msgid "Absent Interface"
 msgstr "Falta la interfaz"
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:207
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:59
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Buffer message amount"
 msgstr "Cantidad de mensajes en el búfer"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:211
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:63
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Buffer time limit"
 msgstr "Límite de tiempo del búfer"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:198
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:50
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Client amount upper limit"
 msgstr "Límite superior en el número de clientes"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:175
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:29
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Client statistics"
 msgstr "Estadísticas de los clientes"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:144
 msgid "Custom Value"
 msgstr "Valor personalizado"
@@ -46,65 +73,123 @@ msgstr "Valor personalizado"
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:181
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:193
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:201
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:34
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:46
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:53
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Default"
 msgstr "Por defecto"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:163
 msgid "Enabled"
 msgstr "Activado"
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:17
+msgid "Enabled"
+msgstr ""
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 
 #: applications/luci-app-udpxy/root/usr/share/rpcd/acl.d/luci-app-udpxy.json:3
 msgid "Grant UCI access for luci-app-udpxy"
 msgstr "Conceder acceso UCI para luci-app-udpxy"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:177
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:31
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "HTTP Listen interface"
 msgstr "Interfaz HTTP de escucha"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:204
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:56
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Ingress buffer size"
 msgstr "Tamaño del búfer de entrada"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:201
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:53
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Log file"
 msgstr "Archivo de registro"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:186
 msgid "Multicast subscribe Source Network"
 msgstr "Red de origen para suscripción a multidifusión"
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:192
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:39
+msgid "Multicast subscribe Source Network"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:45
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Multicast subscribe source interface"
 msgstr "Interfaz de origen de suscripción multicast"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:215
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:67
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Nice increment"
 msgstr "Incremento agradable"
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:181
 msgid "Port"
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 msgstr "Puerto"
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:219
+=======
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:71
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Renew multicast subscription periodicity"
 msgstr "Renovar la periodicidad de la suscripción multicast"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:169
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:23
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Respawn"
 msgstr "Reaparecer"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:204
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:56
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Unit: bytes, Kb, Mb; Max 2097152 bytes"
 msgstr "Unidad: bytes, Kb, Mb; Máx 2097152 bytes"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:219
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:71
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Unit: seconds; 0 is skip."
 msgstr "Unidad: segundos; 0 es omitir."
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:172
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:26
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid "Verbose logging"
 msgstr "Registro detallado"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:187
 msgid "When the network is reloaded, the udpxy is reloaded"
 msgstr "Cuando se recarga la red, se recarga el udpxy"
@@ -114,11 +199,22 @@ msgid "custom"
 msgstr "personalizado"
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:156
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:40
+msgid "When the network is reloaded, the udpxy is reloaded"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:10
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 #: applications/luci-app-udpxy/root/usr/share/luci/menu.d/luci-app-udpxy.json:3
 msgid "udpxy"
 msgstr "udpxy"
 
+<<<<<<< HEAD:applications/luci-app-udpxy/po/yua/udpxy.po
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:157
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:11
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network):applications/luci-app-udpxy/po/en/udpxy.po
 msgid ""
 "udpxy is an IPTV stream relay, a UDP-to-HTTP multicast traffic relay daemon "
 "which forwards multicast UDP streams to HTTP clients."
