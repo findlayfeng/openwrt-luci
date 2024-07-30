@@ -1,6 +1,7 @@
 msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
+<<<<<<< HEAD
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:207
 msgid "-1 is all."
 msgstr ""
@@ -41,6 +42,39 @@ msgid "Default"
 msgstr ""
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:163
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:59
+msgid "-1 is all."
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:63
+msgid "-1 is unlimited."
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:59
+msgid "Buffer message amount"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:63
+msgid "Buffer time limit"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:50
+msgid "Client amount upper limit"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:29
+msgid "Client statistics"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:34
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:46
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:53
+msgid "Default"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:17
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network)
 msgid "Enabled"
 msgstr ""
 
@@ -48,6 +82,7 @@ msgstr ""
 msgid "Grant UCI access for luci-app-udpxy"
 msgstr ""
 
+<<<<<<< HEAD
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:177
 msgid "HTTP Listen interface"
 msgstr ""
@@ -69,6 +104,29 @@ msgid "Multicast subscribe source interface"
 msgstr ""
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:215
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:31
+msgid "HTTP Listen interface"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:56
+msgid "Ingress buffer size"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:53
+msgid "Log file"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:39
+msgid "Multicast subscribe Source Network"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:45
+msgid "Multicast subscribe source interface"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:67
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network)
 msgid "Nice increment"
 msgstr ""
 
@@ -76,6 +134,7 @@ msgstr ""
 msgid "Port"
 msgstr ""
 
+<<<<<<< HEAD
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:219
 msgid "Renew multicast subscription periodicity"
 msgstr ""
@@ -105,11 +164,42 @@ msgid "custom"
 msgstr ""
 
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:156
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:71
+msgid "Renew multicast subscription periodicity"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:23
+msgid "Respawn"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:56
+msgid "Unit: bytes, Kb, Mb; Max 2097152 bytes"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:71
+msgid "Unit: seconds; 0 is skip."
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:26
+msgid "Verbose logging"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:40
+msgid "When the network is reloaded, the udpxy is reloaded"
+msgstr ""
+
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:10
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network)
 #: applications/luci-app-udpxy/root/usr/share/luci/menu.d/luci-app-udpxy.json:3
 msgid "udpxy"
 msgstr ""
 
+<<<<<<< HEAD
 #: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:157
+=======
+#: applications/luci-app-udpxy/htdocs/luci-static/resources/view/udpxy.js:11
+>>>>>>> df2125c4fc (luci-app-udpxy: add option source_network)
 msgid ""
 "udpxy is an IPTV stream relay, a UDP-to-HTTP multicast traffic relay daemon "
 "which forwards multicast UDP streams to HTTP clients."
