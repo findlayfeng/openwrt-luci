@@ -1,10 +1,18 @@
 'use strict';
+'require uci';
 'require view';
 'require form';
 
 return view.extend({
-	render: function() {
+	load: function() {
+		return Promise.all([
+			uci.load('dhcp')
+		]);
+	},
+
+	render: function(data) {
 		var m, s, o;
+		// var dhcp = data[0];
 
 		m = new form.Map('hysteria', _('Hysteria'),
 			_('A feature-packed proxy & relay tool optimized for lossy'));
@@ -98,6 +106,24 @@ return view.extend({
 		);
 		o.depends('enabled_dnsmasq', '1');
 		o.placeholder = "127.0.0.53";
+
+		o = s.taboption('dnsmasq', form.ListValue, 'dnsmasq_instance',
+			_('Dnsmasq Instance'),
+			_('Select the dnsmasq instance to inject the configuration into.')
+		);
+		o.optional = true;
+		var instances = uci.sections('dhcp', 'dnsmasq');
+		for (var i = 0; i < instances.length; i++) {
+			var instance = instances[i];
+
+			if (instance[".anonymous"]) {
+				o.value(instance[".name"], `@dnsmasq[${instance[".index"]}]`);
+			} else {
+				o.value(instance[".name"]);
+			}
+		}
+
+		o.depends('enabled_dnsmasq', '1');
 
 		o = s.taboption('dnsmasq', form.Value, 'dnsmasq_nftset',
 			_('Ntfset'),
