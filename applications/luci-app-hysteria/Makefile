@@ -3,8 +3,7 @@
 include $(TOPDIR)/rules.mk
 
 LUCI_TITLE:=LuCI support for hysteria
-LUCI_DEPENDS:=+luci-base +hysteria +hysteria-configs
-LUCI_PKGARCH:=all
+LUCI_DEPENDS:=+luci-base hysteria-scripts
 
 PKG_LICENSE:=MIT
 PKG_MAINTAINER:=Findlay Feng <i@fengch.me>
